@@ -1,0 +1,31 @@
+
+
+.pageTitle, .mainContainer, .animals {
+  text-align: center;
+}
+
+.jumbotron {
+  background-color:orange;
+  color: black;
+  height:150px;
+  font-size: 50px;
+  font-family: arial;
+  font-weight: bold;
+
+}
+
+.pet a {
+  color: black;
+  font-family: 'arial';
+  font-size: 20px;
+}
+
+.petInfo, .pageTitle, button, .breeds, .footer {
+  font-family: 'arial';
+}
+
+img {
+  max-height: 500px;
+  width: auto;
+  margin-bottom: 5px;
+}
